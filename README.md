@@ -38,13 +38,9 @@ Additional studies extend the evaluation to scene-instantiated cues, safety-crit
    - 严禁列表化：不要将段落改写为 item 列表，必须保持完整的段落结构。
 
 5. 输出格式：
-   - Part 1 [LaTeX]：只输出润色后的英文 LaTeX 代码。
-     * 必须对特殊字符进行转义（例如：`%`、`_`、`&`）。
-     * 保持数学公式原样（保留 `$` 符号）。
-   - Part 2 [Translation]：对应的中文直译。
-     * 严禁在中文名词后使用括号标注英文（拒绝双语冗余）。
-   - Part 3 [Modification Log]：使用中文简要说明主要的润色点（例如：优化了句式结构，增强了学术语气，修正了语法错误）。
-   
+       
+       你的思考和讨论过程
+      英文 LaTeX 代码。
    - 给出润色前后对比
 # Input
 - 请先详细思考讨论，规划好思路，然后再回答
